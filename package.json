@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/chrlzs/vanilla-styles/issues"
   },
-  "homepage": "https://github.com/chrlzs/vanilla-styles#readme"
+  "homepage": "https://github.com/chrlzs/vanilla-styles#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
