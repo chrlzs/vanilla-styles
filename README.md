@@ -9,3 +9,10 @@ Specification for Nested CSS
 
 [css nesting spec](https://drafts.csswg.org/css-nesting/)
 
+File structure:
+
+- src/: This directory contains all of the source code for the application
+- public/: This directory contains all of the static assets for the application, such as images, CSS, and JavaScript files
+- node_modules/: This directory contains all of the npm packages that are installed for the application
+- .env: This file contains the environment variables that are required by the application
+- package.json: This file contains information about the application, such as its name, version, and dependencies
