@@ -1,3 +1,8 @@
+@import "colors.css";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap'); /* https://fonts.google.com/specimen/JetBrains+Mono */
+
 body {
-    color: grey;
+    background: var(--secondary);
+    color: var(--primary);
+    font-family: 'JetBrains Mono', monospace;
 }
