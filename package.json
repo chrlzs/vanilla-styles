@@ -1,0 +1,31 @@
+{
+  "name": "vanilla-styles",
+  "version": "1.0.0",
+  "description": "Vanilla CSS leveraging native CSS Nesting and CSS Variables (Custom Properties)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrlzs/vanilla-styles.git"
+  },
+  "keywords": [
+    "Vanilla",
+    "CSS",
+    "CSS",
+    "Nesting",
+    "CSS",
+    "Variables",
+    "Custom",
+    "Style",
+    "Properties",
+    "Node"
+  ],
+  "author": "Charles Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrlzs/vanilla-styles/issues"
+  },
+  "homepage": "https://github.com/chrlzs/vanilla-styles#readme"
+}
