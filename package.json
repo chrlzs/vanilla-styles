@@ -11,15 +11,12 @@
     "url": "git+https://github.com/chrlzs/vanilla-styles.git"
   },
   "keywords": [
-    "Vanilla",
-    "CSS",
-    "CSS",
-    "Nesting",
-    "CSS",
-    "Variables",
-    "Custom",
-    "Style",
-    "Properties",
+    "Vanilla CSS",
+    "Vanilla HTML",
+    "Vanilla JavaScript",
+    "CSS Nesting",
+    "CSS Variables",
+    "Custom Style Properties",
     "Node"
   ],
   "author": "Charles Schmidt",
