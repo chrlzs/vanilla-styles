@@ -1,4 +1,10 @@
 :root {
-    --primary: #120458;
-    --secondary: #7a04eb;
+    --primary: var(--darkblue);
+    --secondary: var(--pink);
+
+    --darkblue: #120458;
+    --purple: #7a04eb;
+    --pink: #fe75fe;
+    --magenta: #ff00a0;
+    --salmon: #ff124f;
   }

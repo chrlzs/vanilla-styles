@@ -2,7 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap'); /* https://fonts.google.com/specimen/JetBrains+Mono */
 
 body {
-    background: var(--secondary);
-    color: var(--primary);
+    background: var(--primary);
+    color: var(--secondary);
     font-family: 'JetBrains Mono', monospace;
+
+    & h1 {
+        color: var(--salmon);
+    }
+
+    & h2 {
+        color: var(--magenta);
+    }
 }
