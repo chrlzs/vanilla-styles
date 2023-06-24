@@ -17,6 +17,5 @@ File structure:
 - .env: This file contains the environment variables that are required by the application
 - package.json: This file contains information about the application, such as its name, version, and dependencies
 
-  To run:
-
-  node server.js
+To run:
+> node server.js
