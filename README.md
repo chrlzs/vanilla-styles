@@ -9,6 +9,10 @@ Specification for Nested CSS
 
 [css nesting spec](https://drafts.csswg.org/css-nesting/)
 
+Browser support
+
+[css variables](https://caniuse.com/css-variables)
+
 File structure:
 
 - src/: This directory contains all of the source code for the application
