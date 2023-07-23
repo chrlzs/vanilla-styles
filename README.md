@@ -13,6 +13,8 @@ Browser support
 
 [css variables](https://caniuse.com/css-variables)
 
+[css nesting](https://caniuse.com/css-nesting)
+
 File structure:
 
 - src/: This directory contains all of the source code for the application
